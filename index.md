@@ -26,6 +26,19 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
+# Skills
+# Ability to work under pressure
+# Communication skills 
+# Artificial thinking 
+# Leadership skills
+# Problem solving 
+# Time management 
+
+
+
+
+
+
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
