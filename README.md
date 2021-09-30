@@ -1,4 +1,3 @@
-# SKILLS
 # Ability to work under pressure
 # Communication skills 
 # Artificial thinkingLeadership skills
